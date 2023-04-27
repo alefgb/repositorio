@@ -1,0 +1,26 @@
+@charset "UTF-8";
+*{
+    background-image: linear-gradient(to right, rgb(39, 39, 39),rgb(63, 62, 62));
+}
+
+h1{
+    color: white ;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+h2{
+    font-size: 15px;
+    color: white;
+}
+ul{
+    color: rgb(146, 146, 146);
+}
+a{
+    text-decoration: none;
+    color: rgb(146, 146, 146);
+    background-attachment: fixed;
+}
+a:hover{
+    text-decoration: underline;
+}
